@@ -170,4 +170,4 @@ function clozeFunction() {
     };
 };
 
-module.exports = clozeFunction;
+module.exports = clozeCard;

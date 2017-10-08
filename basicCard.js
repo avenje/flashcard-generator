@@ -5,7 +5,7 @@ var input3= process.argv[4];
 var input4= process.argv[5];
 
 function basicFunction() {
-    if (input2 === "random" && input 4 === undefined) {
+    if (input2 === "random" && input4 === undefined) {
         function CreateCard (front, back) {
             this.front= front;
             this.back= back;
@@ -157,4 +157,4 @@ function basicFunction() {
     };
 };
 
-module.exports= basicFunction;
+module.exports= basicCard;
